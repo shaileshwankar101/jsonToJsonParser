@@ -1,0 +1,25 @@
+{
+  "zendesk_ticket": {
+    "id": "CU_9247838052",
+    "requester": {
+      "first_name": "Ronald",
+      "last_name": "Rogers",
+      "email": "danielmiller@example.net"
+    },
+    "location": {
+      "state": "Arizona",
+      "county": 80706
+    },
+    "loan_details": {
+      "loan_id": "L834",
+      "loan_required_amount": 14444,
+      "loan_approved_amount": 10763,
+      "approved_emi": 1946,
+      "loan_tenure": 16
+    },
+    "ticket_status": {
+      "status": "NMI",
+      "priority": "P1"
+    }
+  }
+}

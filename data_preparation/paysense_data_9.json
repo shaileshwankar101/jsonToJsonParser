@@ -1,0 +1,15 @@
+{
+  "master_id": "CU_9102105671",
+  "first_name": "Brandy",
+  "last_name": "Allen",
+  "email": "william76@example.net",
+  "state": "South Carolina",
+  "estimated_salary": 55390,
+  "loan_id": "L762",
+  "loan_required_amount": 17137,
+  "loan_approved_amount": 9328,
+  "approved_emi": 1647,
+  "loan_tenure": 12,
+  "status": "Courier",
+  "current_priority": "P3"
+}

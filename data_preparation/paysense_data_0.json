@@ -1,0 +1,15 @@
+{
+  "master_id": "CU_9247838052",
+  "first_name": "Ronald",
+  "last_name": "Rogers",
+  "email": "danielmiller@example.net",
+  "state": "Arizona",
+  "estimated_salary": 80706,
+  "loan_id": "L834",
+  "loan_required_amount": 14444,
+  "loan_approved_amount": 10763,
+  "approved_emi": 1946,
+  "loan_tenure": 16,
+  "status": "NMI",
+  "current_priority": "P1"
+}

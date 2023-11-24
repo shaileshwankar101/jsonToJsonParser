@@ -1,0 +1,15 @@
+{
+  "master_id": "CU_9365772134",
+  "first_name": "Samantha",
+  "last_name": "Jones",
+  "email": "danielle88@example.com",
+  "state": "Louisiana",
+  "estimated_salary": 70837,
+  "loan_id": "L988",
+  "loan_required_amount": 8024,
+  "loan_approved_amount": 6165,
+  "approved_emi": 2654,
+  "loan_tenure": 12,
+  "status": "App Submit",
+  "current_priority": "P3"
+}

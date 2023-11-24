@@ -1,0 +1,25 @@
+{
+  "zendesk_ticket": {
+    "id": "CU_9412601781",
+    "requester": {
+      "first_name": "John",
+      "last_name": "King",
+      "email": "fergusonbrandi@example.com"
+    },
+    "location": {
+      "state": "Kansas",
+      "county": 40092
+    },
+    "loan_details": {
+      "loan_id": "L342",
+      "loan_required_amount": 14955,
+      "loan_approved_amount": 16670,
+      "approved_emi": 1897,
+      "loan_tenure": 20
+    },
+    "ticket_status": {
+      "status": "App Pending",
+      "priority": "P2"
+    }
+  }
+}

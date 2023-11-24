@@ -1,0 +1,25 @@
+{
+  "zendesk_ticket": {
+    "id": "CU_9448013797",
+    "requester": {
+      "first_name": "Ryan",
+      "last_name": "Mclean",
+      "email": "stephanie62@example.com"
+    },
+    "location": {
+      "state": "Massachusetts",
+      "county": 67203
+    },
+    "loan_details": {
+      "loan_id": "L750",
+      "loan_required_amount": 11093,
+      "loan_approved_amount": 9514,
+      "approved_emi": 2029,
+      "loan_tenure": 23
+    },
+    "ticket_status": {
+      "status": "Docs Verified",
+      "priority": "P2"
+    }
+  }
+}

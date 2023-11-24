@@ -1,0 +1,25 @@
+{
+  "zendesk_ticket": {
+    "id": "CU_9536154699",
+    "requester": {
+      "first_name": "James",
+      "last_name": "Arnold",
+      "email": "eduardo38@example.com"
+    },
+    "location": {
+      "state": "Nebraska",
+      "county": 78929
+    },
+    "loan_details": {
+      "loan_id": "L783",
+      "loan_required_amount": 5720,
+      "loan_approved_amount": 11040,
+      "approved_emi": 2397,
+      "loan_tenure": 7
+    },
+    "ticket_status": {
+      "status": "Docs Verified",
+      "priority": "P1"
+    }
+  }
+}

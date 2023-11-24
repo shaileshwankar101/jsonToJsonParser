@@ -1,0 +1,25 @@
+{
+  "zendesk_ticket": {
+    "id": "CU_9090760022",
+    "requester": {
+      "first_name": "Danielle",
+      "last_name": "Morris",
+      "email": "jessicamiller@example.org"
+    },
+    "location": {
+      "state": "Colorado",
+      "county": 84804
+    },
+    "loan_details": {
+      "loan_id": "L353",
+      "loan_required_amount": 6560,
+      "loan_approved_amount": 15312,
+      "approved_emi": 2491,
+      "loan_tenure": 22
+    },
+    "ticket_status": {
+      "status": "Docs Verified",
+      "priority": "P2"
+    }
+  }
+}

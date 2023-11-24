@@ -1,0 +1,15 @@
+{
+  "master_id": "CU_9412601781",
+  "first_name": "John",
+  "last_name": "King",
+  "email": "fergusonbrandi@example.com",
+  "state": "Kansas",
+  "estimated_salary": 40092,
+  "loan_id": "L342",
+  "loan_required_amount": 14955,
+  "loan_approved_amount": 16670,
+  "approved_emi": 1897,
+  "loan_tenure": 20,
+  "status": "App Pending",
+  "current_priority": "P2"
+}

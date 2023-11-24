@@ -1,0 +1,25 @@
+{
+  "zendesk_ticket": {
+    "id": "CU_9930756879",
+    "requester": {
+      "first_name": "Allen",
+      "last_name": "Matthews",
+      "email": "lindarodriguez@example.org"
+    },
+    "location": {
+      "state": "Idaho",
+      "county": 72019
+    },
+    "loan_details": {
+      "loan_id": "L424",
+      "loan_required_amount": 16803,
+      "loan_approved_amount": 12255,
+      "approved_emi": 2328,
+      "loan_tenure": 24
+    },
+    "ticket_status": {
+      "status": "Credit Ops",
+      "priority": "P3"
+    }
+  }
+}

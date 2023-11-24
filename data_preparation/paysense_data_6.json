@@ -1,0 +1,15 @@
+{
+  "master_id": "CU_9328127616",
+  "first_name": "Jennifer",
+  "last_name": "Snow",
+  "email": "mark53@example.org",
+  "state": "Vermont",
+  "estimated_salary": 81013,
+  "loan_id": "L904",
+  "loan_required_amount": 19471,
+  "loan_approved_amount": 11662,
+  "approved_emi": 2755,
+  "loan_tenure": 21,
+  "status": "App Pending",
+  "current_priority": "P1"
+}

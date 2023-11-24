@@ -1,0 +1,25 @@
+{
+  "zendesk_ticket": {
+    "id": "CU_9328127616",
+    "requester": {
+      "first_name": "Jennifer",
+      "last_name": "Snow",
+      "email": "mark53@example.org"
+    },
+    "location": {
+      "state": "Vermont",
+      "county": 81013
+    },
+    "loan_details": {
+      "loan_id": "L904",
+      "loan_required_amount": 19471,
+      "loan_approved_amount": 11662,
+      "approved_emi": 2755,
+      "loan_tenure": 21
+    },
+    "ticket_status": {
+      "status": "App Pending",
+      "priority": "P1"
+    }
+  }
+}

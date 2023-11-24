@@ -1,0 +1,15 @@
+{
+  "master_id": "CU_9930756879",
+  "first_name": "Allen",
+  "last_name": "Matthews",
+  "email": "lindarodriguez@example.org",
+  "state": "Idaho",
+  "estimated_salary": 72019,
+  "loan_id": "L424",
+  "loan_required_amount": 16803,
+  "loan_approved_amount": 12255,
+  "approved_emi": 2328,
+  "loan_tenure": 24,
+  "status": "Credit Ops",
+  "current_priority": "P3"
+}

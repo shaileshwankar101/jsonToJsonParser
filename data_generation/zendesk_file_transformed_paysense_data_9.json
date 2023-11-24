@@ -1,0 +1,25 @@
+{
+  "zendesk_ticket": {
+    "id": "CU_9102105671",
+    "requester": {
+      "first_name": "Brandy",
+      "last_name": "Allen",
+      "email": "william76@example.net"
+    },
+    "location": {
+      "state": "South Carolina",
+      "county": 55390
+    },
+    "loan_details": {
+      "loan_id": "L762",
+      "loan_required_amount": 17137,
+      "loan_approved_amount": 9328,
+      "approved_emi": 1647,
+      "loan_tenure": 12
+    },
+    "ticket_status": {
+      "status": "Courier",
+      "priority": "P3"
+    }
+  }
+}

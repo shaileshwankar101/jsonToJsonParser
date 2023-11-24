@@ -1,0 +1,15 @@
+{
+  "master_id": "",
+  "first_name": "",
+  "last_name": "",
+  "email": "",
+  "state": "",
+  "estimated_salary": "",
+  "loan_id": "",
+  "loan_required_amount": "",
+  "loan_approved_amount": "",
+  "approved_emi": "",
+  "loan_tenure": "",
+  "status": "",
+  "current_priority": ""
+}

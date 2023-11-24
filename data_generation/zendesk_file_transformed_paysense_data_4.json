@@ -1,0 +1,25 @@
+{
+  "zendesk_ticket": {
+    "id": "CU_9438247363",
+    "requester": {
+      "first_name": "Frederick",
+      "last_name": "Wilson",
+      "email": "parkernathan@example.net"
+    },
+    "location": {
+      "state": "New Mexico",
+      "county": 74480
+    },
+    "loan_details": {
+      "loan_id": "L639",
+      "loan_required_amount": 14853,
+      "loan_approved_amount": 15996,
+      "approved_emi": 2356,
+      "loan_tenure": 9
+    },
+    "ticket_status": {
+      "status": "Disbursal",
+      "priority": "P3"
+    }
+  }
+}

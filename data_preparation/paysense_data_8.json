@@ -1,0 +1,15 @@
+{
+  "master_id": "CU_9090760022",
+  "first_name": "Danielle",
+  "last_name": "Morris",
+  "email": "jessicamiller@example.org",
+  "state": "Colorado",
+  "estimated_salary": 84804,
+  "loan_id": "L353",
+  "loan_required_amount": 6560,
+  "loan_approved_amount": 15312,
+  "approved_emi": 2491,
+  "loan_tenure": 22,
+  "status": "Docs Verified",
+  "current_priority": "P2"
+}

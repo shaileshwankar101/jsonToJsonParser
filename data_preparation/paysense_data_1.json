@@ -1,0 +1,15 @@
+{
+  "master_id": "CU_9448013797",
+  "first_name": "Ryan",
+  "last_name": "Mclean",
+  "email": "stephanie62@example.com",
+  "state": "Massachusetts",
+  "estimated_salary": 67203,
+  "loan_id": "L750",
+  "loan_required_amount": 11093,
+  "loan_approved_amount": 9514,
+  "approved_emi": 2029,
+  "loan_tenure": 23,
+  "status": "Docs Verified",
+  "current_priority": "P2"
+}

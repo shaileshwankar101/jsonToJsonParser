@@ -1,0 +1,25 @@
+{
+    "zendesk_ticket": {
+        "id": "",
+        "requester": {
+            "first_name": "",
+            "last_name": "",
+            "email": ""
+        },
+        "location": {
+            "state": "",
+            "county": ""
+        },
+        "loan_details": {
+            "loan_id": "",
+            "loan_required_amount": "",
+            "loan_approved_amount": "",
+            "approved_emi": "",
+            "loan_tenure": ""
+        },
+        "ticket_status": {
+            "status": "",
+            "priority": ""
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+  "zendesk_ticket": {
+    "id": "CU_9365772134",
+    "requester": {
+      "first_name": "Samantha",
+      "last_name": "Jones",
+      "email": "danielle88@example.com"
+    },
+    "location": {
+      "state": "Louisiana",
+      "county": 70837
+    },
+    "loan_details": {
+      "loan_id": "L988",
+      "loan_required_amount": 8024,
+      "loan_approved_amount": 6165,
+      "approved_emi": 2654,
+      "loan_tenure": 12
+    },
+    "ticket_status": {
+      "status": "App Submit",
+      "priority": "P3"
+    }
+  }
+}
